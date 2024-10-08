@@ -1,5 +1,5 @@
 :root{
-    --fundo:	#9932CC;
+    --fundo:	#FF00FF;
     --cartao-frente: 	#C71585;
     --catao-verso:  #FF1493;
     --destaque: 		#00FFFF;
@@ -8,4 +8,10 @@
 }
 body{
     background-color: var(--fundo);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: var(--preto);
 }
