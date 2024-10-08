@@ -47,6 +47,7 @@ criaCartao(
     'História',
     'Quem foi o primeiro presidente dos EUA',
     'George Washingthon'
+)
 criaCartao(
     'Ciência',
     'Qual é o maior planta do Sistema Solar',
