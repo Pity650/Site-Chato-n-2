@@ -1,7 +1,7 @@
 criaCartao(
     'Matemática',
     'Como se calcula a soma dos ermos de uma P.A',
-    'Utiliz-se a fórmula: ((a1+an)'.q)/2'
+    'Utiliz-se a fórmula: ((a1+an).q)/2)'
 )
 criaCartao(
     'Química',
