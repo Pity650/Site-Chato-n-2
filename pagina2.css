@@ -47,6 +47,7 @@ footer{
 .resposta-cartão{
   padding: 40px;
   background-color: var(--cartao-verso);
+  display: none;
 }
 
 .conteudo-cartao:hover{
