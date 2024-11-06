@@ -35,9 +35,9 @@ footer{
     gap: 4rem;
  }
 
- .conteudo-cartão{
+ .conteudo-cartao{
     padding: 40px;
-    background-color: var(--cartão-frente);
+    background-color: var(--cartao-frente);
     color: var(--branco);
     box-shadow: 5px 5px 5px var(--preto);
 }
@@ -45,5 +45,5 @@ footer{
 
 .resposta-cartão{
   padding: 40px;
-  background-color: var(--cartão-verso);
+  background-color: var(--cartao-verso);
 }
