@@ -29,3 +29,20 @@ footer{
     width: 100%;
     text-align: center;
 }
+ #container{
+    display: grid;
+    padding: 40px;
+    gap: 4rem;
+ }
+
+ .conteudo-cartão{
+    padding: 40px;
+    background-color: var(--cartao-frente);
+    color: var(--branco);
+}
+
+
+.resposta-cartão{
+  padding: 40px;
+  background-color: var(--catao-verso);
+}
